@@ -1,0 +1,88 @@
+{
+  "Personal Information": {
+    "Name": "Nandini Garg",
+    "Phone": "+91 9997494903",
+    "Location": "Ghaziabad, Uttar Pradesh",
+    "Email": "nandinigarg1825@gmail.com",
+    "LinkedIn": "linkedin.com/in/nandini-garg-8490a4226",
+    "GitHub": "github.com/Nandinigarg-123"
+  },
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology - CSE-AIML",
+      "Institution": "ABES Engineering College",
+      "Year": "2025",
+      "Percentage": "79%"
+    },
+    {
+      "Degree": "Intermediate",
+      "Board": "CBSE",
+      "Year": "2021",
+      "Percentage": "94.6%"
+    }
+  ],
+  "Skills": {
+    "Programming Languages": ["HTML", "CSS", "JavaScript", "C++", "Python"],
+    "Frameworks and Libraries": ["React", "Node.js", "Express.js", "NumPy", "Pandas", "Matplotlib", "Bootstrap", "Tailwind CSS"],
+    "Tools": ["Postman API", "PowerBI", "GitHub", "Git", "VSCode", "Jupyter Notebook"],
+    "Database": ["MongoDB", "SQL"],
+    "Coursework": ["Data Structures and Algorithms", "DBMS", "OOPs", "OS", "Computer Networks"]
+  },
+  "Experience": [
+    {
+      "Title": "Data Analyst Intern",
+      "Company": "AWS Academy",
+      "Duration": "May 2023 - July 2023",
+      "Responsibilities": [
+        "Implemented two data analysis projects using Python, improving data accuracy by 50%",
+        "Conducted data cleaning, preprocessing, and visualization to generate actionable insights by 35%",
+        "Achieved 90% prediction accuracy using regression and SVM on a dataset of 10,000 samples"
+      ]
+    },
+    {
+      "Title": "Web Development Intern",
+      "Company": "CodeClause",
+      "Duration": "August 2023 - September 2023",
+      "Responsibilities": [
+        "Deployed two React-based web applications, enhancing user engagement by 25%",
+        "Spearheaded and executed responsive interfaces, with user satisfaction of accessibility by 30%",
+        "Optimized website performance and loading times by 40% through strategic code optimization"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Title": "Breast Cancer Prediction",
+      "Description": [
+        "Engineered a predictive model using SVM, regression, and random forest algorithms for breast cancer detection, achieving 95% accuracy",
+        "Improved early detection rates by 30% by identifying two distinct disease stages, enhancing effectiveness"
+      ],
+      "GitHub": "https://github.com/Nandinigarg-123/breast_Cancer_Prediction"
+    },
+    {
+      "Title": "Image Caption Generator",
+      "Description": [
+        "Constructed an image caption generator using CNN and LSTM, achieving 92% accuracy in generating contextually relevant captions",
+        "Instituted advanced optimization techniques to enhance model performance by 25%"
+      ],
+      "GitHub": "https://github.com/Nandinigarg-123/image-caption-generator"
+    },
+    {
+      "Title": "Book Store",
+      "Description": [
+        "Architected a responsive e-commerce web app for an online bookstore using React.js, Express.js, and MongoDB which boosted user engagement by 20%",
+        "Boosted user experience with light/dark themes, resulting in a 15% reduction in bounce rates"
+      ],
+      "GitHub": "https://github.com/Nandinigarg-123/BookStore"
+    }
+  ],
+  "Extra-Curricular Activities": [
+    {
+      "Activity": "Volunteer Instructor at Light De Literacy Society",
+      "Description": "Dedicated to educating underprivileged students, fostering academic growth and community empowerment"
+    },
+    {
+      "Activity": "Showcasing proficiency and expertise in web development and data science through diverse certifications"
+    }
+  ]
+}
